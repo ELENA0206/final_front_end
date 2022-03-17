@@ -1,0 +1,18 @@
+.mfooter{
+    color:white;
+    background-color: darkblue !important;
+}
+
+.footer-pst-item {
+  margin: 0;
+  padding: 0;
+}
+.item:hover{
+  color:goldenrod;
+}
+.footer-head{
+    margin: 12px;
+}
+hr{
+    background-color: white !important;
+}
